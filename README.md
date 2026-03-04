@@ -14,3 +14,4 @@ Analyze Blinkit grocery sales data to understand outlet performance and product 
 - Snacks category contributes maximum sales
 
 Dataset file is included in this repository.
+![Dashboard](dashboard.png)
